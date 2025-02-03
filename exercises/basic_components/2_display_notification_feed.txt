@@ -1,0 +1,10 @@
+Question 2: Display a Notification Feed
+
+Create a notification feed page for a mobile app using Ionic-React. The layout should include the following components:
+
+- A list of notifications displayed as Ionic cards.
+- Each card should have a title, a brief description, and a timestamp.
+- Include a "Mark as Read" button for each notification card.
+- Utilize a responsive grid to showcase images related to some notifications.
+- Ensure that the layout is clean, organized, and responsive.
+

@@ -1,0 +1,8 @@
+Question 6: Develop a News Feed Page
+
+Create a mobile news feed page using Ionic-React. The layout should include the following components:
+
+- Ionic cards for displaying news articles, each containing the article title, summary, and a "Read More" button.
+- Use a responsive grid to showcase related images for some articles.
+- Include a "Bookmark" button for users to save articles.
+- Ensure the layout is organized, visually appealing, and responsive.

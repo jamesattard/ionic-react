@@ -1,0 +1,29 @@
+Week 1:
+-------
+
+Introduce React by start with:
+worksheet 1 and worksheet 2 together
+Then for lab give them the questions in basicReactExercises
+
+
+Week 2:
+-------
+For the next week, introduce new concepts such as:
+1. LocalStorage (worksheet 3)
+2. Array Loops (worksheet 4) -> do it together but interactively
+
+For the lab session introduce Ionic with React:
+1. Alert box (Worksheet 5)
+2. Slide (Worksheet 6)
+
+Week 3 (Revision):
+-------
+Basic Todo App:
+1. Basic todo app (todo_basic_app)
+2. (Optional) With checkbox (Worksheet 7)
+
+Week 4 (Revision):
+-------
+Todo App with Persistency
+This should be a lab session to prepare them for the home assessment
+-> todo_persistency

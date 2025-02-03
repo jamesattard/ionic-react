@@ -1,0 +1,6 @@
+Design a mobile event schedule page using Ionic-React. The layout should include the following elements:
+
+- A list of events represented as Ionic cards, each containing the event title, date, time, and a "Details" button.
+- Utilize a responsive grid to showcase event categories.
+- Include a "Filter" button for users to filter events based on categories.
+- Ensure the layout is visually appealing and responsive.

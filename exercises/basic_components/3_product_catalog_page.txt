@@ -1,0 +1,8 @@
+Question 3: Create a Product Catalog Page
+
+Design a mobile product catalog page using Ionic-React. The layout should include the following elements:
+
+- A list of product cards, each containing the product image, name, price, and a "View Details" button.
+- Use a responsive grid to showcase product categories, with at least three categories.
+- Include a "Filter" button for users to filter products based on categories.
+- Ensure the layout is visually appealing and responsive.

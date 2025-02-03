@@ -1,0 +1,7 @@
+{
+  "name": "worksheet",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}

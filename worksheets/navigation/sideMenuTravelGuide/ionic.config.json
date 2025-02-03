@@ -1,0 +1,7 @@
+{
+  "name": "sideMenuTravelGuide",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}

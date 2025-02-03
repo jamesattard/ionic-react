@@ -1,0 +1,7 @@
+{
+  "name": "travel_discovery_app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}

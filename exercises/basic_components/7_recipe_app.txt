@@ -1,0 +1,6 @@
+Design a mobile homepage for a recipe app using Ionic-React. The layout should include the following elements:
+
+- A list of featured recipes displayed as Ionic cards, each containing the recipe image, title, and a "View Recipe" button.
+- Utilize a responsive grid to showcase different recipe categories.
+- Include a "Search" button for users to search for specific recipes.
+- Ensure the layout is visually appealing and responsive.

@@ -1,0 +1,7 @@
+{
+  "name": "basicReactExercises",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}

@@ -1,0 +1,21 @@
+Question 3: Travel Discovery App
+
+Create a travel discovery app using Ionic-React with the following structure:
+
+1. Welcome Screen:
+
+  - Prompt users to add a travel card with a stock image and some text to the welcome screen.
+  - Include an icon to indicate the travel theme.
+  - Provide a "Get Started" button to navigate to the travel destinations screen.
+
+2. Travel Destinations:
+
+  - On tapping "Get Started" on the Welcome Screen, users should be directed to the Travel Destinations screen.
+  - Display a list of travel destination cards with stock images and brief descriptions.
+  - Include icons representing different travel destinations.
+
+
+3. Travel Tips:
+
+  - Users can navigate to the Travel Tips screen from the Travel Destinations screen.
+  - Display travel tips content with relevant icons to enhance the user experience.

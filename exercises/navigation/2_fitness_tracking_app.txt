@@ -1,0 +1,14 @@
+Question 2: Fitness Tracking App
+
+Create an engaging fitness tracking app using Ionic-React with the following structure:
+
+1. Welcome Screen:
+
+  - Display a welcome message to users starting their fitness journey.
+  - Include a "Get Started" button to navigate to the workout tracking screen.
+
+2. Workout Tracking:
+
+  - On tapping "Get Started" on the Welcome Screen, users should be directed to the Workout Tracking screen.
+  - Display workout tracking features, including exercise logs and progress charts, using cards with images fetched from a stock image website.
+  - Use tabs for easy navigation between the Welcome and Workout Tracking screens.

@@ -1,0 +1,7 @@
+{
+  "name": "todoListComplete",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}

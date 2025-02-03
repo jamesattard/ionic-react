@@ -1,0 +1,8 @@
+Question 4: Build a Social Media Feed
+
+Develop a mobile social media feed using Ionic-React. The layout should include the following components:
+
+- Cards representing posts, each containing the user's profile picture, username, post content, and a "Like" button.
+- Use a responsive grid to display additional media content (images or videos) related to some posts.
+- Include a "Comment" button for users to add comments to posts.
+- Ensure the layout is clean, organized, and responsive.

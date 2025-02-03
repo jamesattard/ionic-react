@@ -1,0 +1,9 @@
+Question 1: Design a Mobile Profile Page
+
+Imagine you are developing a mobile profile page using Ionic-React. Design a layout that includes the following elements:
+
+- User's profile picture (use an Ionic card for styling).
+- User's name and a brief bio.
+- A list of favorite hobbies displayed as Ionic buttons.
+- A responsive grid for showcasing the user's photo gallery (at least three photos).
+- Ensure that the layout is visually appealing and responsive. Utilize appropriate Ionic components for buttons, cards, and responsive grid.
